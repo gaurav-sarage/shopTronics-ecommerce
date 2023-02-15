@@ -10,7 +10,7 @@ const Banner = () => {
                 <div className="text-content">
                     <h1>SALES</h1>
                     <p>
-                        shopTronics is a premium eCommerce web app that has been curated for the comsumers.
+                        shopTronics is a premium eCommerce web app that has been curated for the consumers.
                     </p>
                     <div className="ctas">
                         <div className="banner-cta">Read More</div>
